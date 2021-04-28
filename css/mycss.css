@@ -1,0 +1,10 @@
+#sblogo
+{
+    
+    width:60%;height: 60%;
+}
+@media (max-width: 500px) {
+
+    #sblogo {width:30%;height: 30%;margin-left: 150px;}
+
+}
