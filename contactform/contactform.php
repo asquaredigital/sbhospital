@@ -47,7 +47,7 @@
       die($contact_error_email);
     }
 
-    if(strlen($subject)<3){
+    if(strlen($subject)<2){
       die($contact_error_subject);
     }
 
