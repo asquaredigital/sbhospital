@@ -8,10 +8,10 @@
 /***************** Configuration *****************/
 
   // Replace with your real receiving email address
-  $contact_email_to = "contact@asquare.tech";
+  $contact_email_to = "sbhospital1990@gmail.com";
 
   // Title prefixes
-  $subject_title = "Contat Form Message:";
+  $subject_title = "Enquiry Form Message:";
   $name_title = "Name:";
   $email_title = "Email:";
   $message_title = "Message:";
@@ -57,7 +57,7 @@
 
     if(!isset($contact_email_from)) {
      // $contact_email_from = "contactform@" . @preg_replace('/^www\./','', $_SERVER['SERVER_NAME']);
-     $contact_email_from ="mailer@asquare.tech";
+     $contact_email_from ="sbhospitalweb@gmail.com";
     
     }
 
