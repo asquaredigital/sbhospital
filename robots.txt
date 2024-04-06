@@ -1,0 +1,7 @@
+# robots.txt for https://sbhospital.in/
+
+
+User-Agent: *
+Allow: /
+
+Sitemap: https://sbhospital.in/sitemap.xml
