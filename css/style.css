@@ -8351,7 +8351,7 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
           font-size: 18px;
           font-weight: 400;
-          text-transform: uppercase;
+          text-transform: none;
           color: rgba(0, 0, 0, 0.8); }
         .owl-carousel.home-slider .slider-item .slider-text p {
           font-size: 18px;
